@@ -1,0 +1,25 @@
+ul{
+  font-size: 20px;
+  word-spacing: .3em;
+  line-height: 50px;
+  list-style: none;
+  padding: 0 0 0 6px;
+}
+body{
+  background-image: url(cooler.gif);
+}
+button{
+  height:30px;
+  margin:0 0 0 20px;
+}
+span{
+  margin-left: 15px;
+}
+section{
+  max-width: 47%;
+  background-color: rgba(255, 255, 255, 0.5);
+  font-weight: 600;
+}
+li{
+  border-bottom: 5px black solid;
+}
