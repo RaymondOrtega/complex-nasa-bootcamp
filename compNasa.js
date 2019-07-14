@@ -1,6 +1,4 @@
 
-// const inputValue = document.querySelector("input").value.toLowerCase()
-// var url="https://data.opendatasoft.com/api/records/1.0/search/?dataset=nasa-facilities%40datastro&facet=center&facet=occupied&facet=status&facet=state&facet=city&facet=zipcode&facet=last_update"
 var url="https://data.nasa.gov/resource/gvk9-iz74.json"
 console.log(url);
 fetch(url)//First API
